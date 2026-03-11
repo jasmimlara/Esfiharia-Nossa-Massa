@@ -35,9 +35,9 @@ export const MENU_ITEMS: MenuItem[] = [
   { id: 'c1', name: 'Combo Dupla Clássica', description: '5 carne, 5 calabresa, 1 guaraná 1L', price: 39.99, category: 'combos' },
   { id: 'c2', name: 'Combo Meio a Meio', description: '5 carne, 5 frango, 1 guaraná 1L', price: 39.99, category: 'combos' },
   { id: 'c3', name: 'Combo Par Perfeito', description: '5 calabresa, 5 frango, 1 guaraná 1L', price: 39.99, category: 'combos' },
-  { id: 'c4', name: 'Combo Pra Galera', description: '6 carne c/ queijo, 6 frango com catupiry, 6 calabresa', price: 76.99, category: 'combos' },
-  { id: 'c5', name: 'Combo TRIO DE SABOR', description: '5 carne, 5 calabresa, 5 frango', price: 49.99, category: 'combos' },
   { id: 'c6', name: 'Combo FOME DE CARNE', description: '10 carne, 1 guaraná 1L', price: 39.99, category: 'combos' },
+  { id: 'c5', name: 'Combo TRIO DE SABOR', description: '5 carne, 5 calabresa, 5 frango', price: 49.99, category: 'combos' },
+  { id: 'c4', name: 'Combo Pra Galera', description: '6 carne c/ queijo, 6 frango com catupiry, 6 calabresa', price: 76.99, category: 'combos' },
 ];
 
 export const WHATSAPP_NUMBER = '5513996797863';
